@@ -1,0 +1,9 @@
+input_videos/
+models/
+output_videos/
+training/runs/
+training/tennis-ball-detection-6/
+training/yolov5l6u.pt
+training/yolov8n.pt
+runs/
+/yolov8x.pt
